@@ -17,3 +17,8 @@ h1 {
 h3 {
   color: red;
 }
+
+h1:hover {
+  background-color: black;
+  color: yellow;
+}
