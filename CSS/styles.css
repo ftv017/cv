@@ -22,3 +22,8 @@ h1:hover {
   background-color: black;
   color: yellow;
 }
+
+h3:hover {
+  background-color: pink;
+  color: cyan;
+}
