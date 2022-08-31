@@ -12,9 +12,11 @@ hr {
 
 h1 {
   color: #66BFBF;
+  display: inline;
 }
 
 h3 {
+  display: inline;
   color: red;
 }
 
