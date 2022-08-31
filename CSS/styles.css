@@ -29,3 +29,8 @@ h3:hover {
   background-color: pink;
   color: cyan;
 }
+
+.custom:hover {
+  background-color: black;
+  color: yellow;
+}
